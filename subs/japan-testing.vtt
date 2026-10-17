@@ -4,23 +4,23 @@ Language: en
 
 00:00:17.375 --> 00:00:19.458
 [info] prolog
-こんにちは、カタツムリさん！
-Kon'nichiwa, katatsumuri-san!
+[native] こんにちは、カタツムリさん！
+[romaji] Kon'nichiwa, katatsumuri-san!
 
 00:00:19.458 --> 00:00:22.333
 [info] prolog
-あら、かわいい小さなコルヌ・アスペルズムね。
-Ara, kawaī chīsana korunu asuperuzumu ne.
+[native] あら、かわいい小さなコルヌ・アスペルズムね。
+[romaji] Ara, kawaī chīsana korunu asuperuzumu ne.
 
 00:00:22.333 --> 00:00:25.125
 [info] testing 1
-学名まで挙げたらボーナスポイント！
-Gakumei made agetara bōnasupointo!
+[native] 学名まで挙げたらボーナスポイント！
+[romaji] Gakumei made agetara bōnasupointo!
 
 00:00:28.375 --> 00:00:30.833
 [info] testing 2
-よりによって、あの環境保護活動家と組まされるなんて。
-Yoriniyotte, ano kankyō hogo katsudō-ka to kuma sa reru nante.
+[native] よりによって、あの環境保護活動家と組まされるなんて。
+[romaji] Yoriniyotte, ano kankyō hogo katsudō-ka to kuma sa reru nante.
 
 00:00:30.833 --> 00:00:34.667
 [info] testing 3
